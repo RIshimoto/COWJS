@@ -9,9 +9,19 @@ AltJSの設計・実装を学ぶために授業で制作したAltJS[^2]。</br>
 ## プレゼンスライド
 https://github.com/RIshimoto/COWJS/blob/main/COWJS.pdf
 
+
+## デモ
+<img width="365" alt="image" src="https://user-images.githubusercontent.com/57135683/210615519-4ae87dba-5ff7-40b0-ac73-a2cbb8574a90.png">
+
 ## 実行手順
 ```
-npx pegjs -o parser.js grammer.pegjs
-node main.js (実行したいcowファイル).cow
-node src.js 
+$ git clone https://github.com/RIshimoto/COWJS
+$ cd COWJS
+$ npm install 
+$ npx pegjs -o parser.js grammer.pegjs
+$ node main.js (実行したいcowファイル).cow
+$ node src.js 
 ```
+
+## 実行環境
+Ubuntu 22.04.1 LTS
