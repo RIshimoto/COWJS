@@ -1,6 +1,6 @@
 # COWJS
 ## 概要
-AltJSの設計・実装を学ぶために授業で制作したAltJS[^2]。</br>
+AltJS[^2]の設計・実装を学ぶために制作した自作AltJS。</br>
 主にCOW[^1]言語の文法を主体として設計。</br>
 
 [^1]:https://bigzaphod.github.io/COW/
@@ -24,4 +24,6 @@ $ node src.js
 ```
 
 ## 実行環境
-Ubuntu 22.04.1 LTS
+- Oracle VM VirtualBox 6.1.X
+- Ubuntu Desktop 22.04.1 LTS
+- Node.js 16.17.0 LTS
