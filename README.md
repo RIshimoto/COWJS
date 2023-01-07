@@ -11,7 +11,7 @@ https://github.com/RIshimoto/COWJS/blob/main/COWJS.pdf
 
 
 ## デモ
-<img width="365" alt="image" src="https://user-images.githubusercontent.com/57135683/210615519-4ae87dba-5ff7-40b0-ac73-a2cbb8574a90.png">
+https://user-images.githubusercontent.com/57135683/211139510-12ee7157-9dd7-411a-8e23-f9a693bed13e.mp4
 
 ## 実行手順
 ```
