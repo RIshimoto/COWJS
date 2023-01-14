@@ -6,7 +6,7 @@ AltJS[^2]の設計・実装を学ぶために制作した自作AltJS。</br>
 [^1]:https://bigzaphod.github.io/COW/
 [^2]:トランスパイルによりJavaScriptを生成する代替JavaScriptのこと。TypeScriptが有名。
 
-## プレゼンスライド
+## スライド
 https://github.com/RIshimoto/COWJS/blob/main/COWJS.pdf
 
 
